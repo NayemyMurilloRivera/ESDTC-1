@@ -190,8 +190,7 @@ plot(puntos_medios_ext, frecuencias_ext, type = "o", col = "blue", lwd = 2, pch 
 # Opcional: Agregar líneas de referencia
 grid(col = "gray", lty = "dotted")
 
-
-
+#installar en package "modeest"
 
 
 
