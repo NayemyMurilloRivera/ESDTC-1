@@ -191,6 +191,18 @@ plot(puntos_medios_ext, frecuencias_ext, type = "o", col = "blue", lwd = 2, pch 
 grid(col = "gray", lty = "dotted")
 
 #installar en package "modeest"
+#moda<-mfv(x)
+moda
+
+c3<- quatile(peso,0.75)
+sd(peso)
+cv=mean(peso)/sd(peso ) = desviacion estndar
+mean=media
+median=mediana
+moda=mfv
+cuantiles=quantile(x, cantidad"75)
+sumary(peso)
+
 
 
 
